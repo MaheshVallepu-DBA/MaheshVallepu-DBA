@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Mahesh4064&color=red&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=red&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahesh-vallepu-493b2234b/)
 [![Gmail](https://img.shields.io/badge/Gmail-maheshvallepu.official@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maheshvallepu.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mahesh4064-181717?style=flat-square&logo=github)](https://github.com/Mahesh4064)
+[![GitHub](https://img.shields.io/badge/GitHub-MaheshVallepu--DBA-181717?style=flat-square&logo=github)](https://github.com/MaheshVallepu-DBA)
 
 ---
 
@@ -286,13 +286,13 @@ JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh4064&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=C74634&icon_color=C74634&text_color=ffffff&bg_color=0d1117)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshVallepu-DBA&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=C74634&icon_color=C74634&text_color=ffffff&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh4064&layout=compact&theme=radical&hide_border=true&title_color=C74634&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshVallepu-DBA&layout=compact&theme=radical&hide_border=true&title_color=C74634&text_color=ffffff&bg_color=0d1117)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahesh4064&theme=radical&hide_border=true&ring=C74634&fire=C74634&currStreakLabel=C74634&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaheshVallepu-DBA&theme=radical&hide_border=true&ring=C74634&fire=C74634&currStreakLabel=C74634&background=0d1117)](https://git.io/streak-stats)
 
-[![Mahesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh4064&bg_color=0d1117&color=C74634&line=C74634&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshVallepu-DBA&bg_color=0d1117&color=C74634&line=C74634&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -304,8 +304,8 @@ JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <div align="center">
 
-[![oracle-dba-scripts](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh4064&repo=oracle-dba-scripts&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/Mahesh4064/oracle-dba-scripts)
-[![goldengate-automation](https://github-readme-stats.vercel.app/api/pin/?username=Mahesh4064&repo=goldengate-automation&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/Mahesh4064/goldengate-automation)
+[![oracle-dba-scripts](https://github-readme-stats.vercel.app/api/pin/?username=MaheshVallepu-DBA&repo=oracle-dba-scripts&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/MaheshVallepu-DBA/oracle-dba-scripts)
+[![goldengate-automation](https://github-readme-stats.vercel.app/api/pin/?username=MaheshVallepu-DBA&repo=goldengate-automation&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/MaheshVallepu-DBA/goldengate-automation)
 
 </div>
 
@@ -359,7 +359,7 @@ Bengaluru | Bangalore | India | Immediate Joiner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh_Vallepu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vallepu-493b2234b/)
 [![Gmail](https://img.shields.io/badge/Gmail-maheshvallepu.official@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshvallepu.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mahesh4064-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahesh4064)
+[![GitHub](https://img.shields.io/badge/GitHub-MaheshVallepu--DBA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshVallepu-DBA)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_9704889360-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919704889360)
 
 ---
