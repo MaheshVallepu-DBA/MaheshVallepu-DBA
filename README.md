@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C74634&center=true&vCenter=true&width=800&lines=🔴+Senior+Oracle+DBA+%7C+4%2B+Years+BFSI+Experience;🏦+SBI+%7C+RBL+Bank+%7C+Mahindra+Finance;⚡+Oracle+RAC+%7C+GoldenGate+%7C+Active+Data+Guard;☁️+Oracle+Cloud+Infrastructure+(OCI)+Engineer;🛡️+Zero-Downtime+Migrations+%7C+DR+Specialist;🔧+RMAN+%7C+ASM+%7C+Performance+Tuning+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C74634&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Senior+Oracle+DBA+%7C+4%2B+Years+BFSI+Experience;Oracle+RAC+%7C+GoldenGate+%7C+Active+Data+Guard;24x7+Mission-Critical+Production+Support;Zero-Downtime+Migrations+%7C+DR+Specialist;Oracle+Cloud+Infrastructure+(OCI)+Engineer;RMAN+%7C+ASM+%7C+SQL+Performance+Tuning+Expert" alt="Typing SVG" />
 
 </div>
 
