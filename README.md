@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0066CC&height=200&section=header&text=Mahesh%20Vallepu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Oracle%20Database%20Administrator&descAlignY=55&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,30:0a1628,60:0d2a50,100:0066CC&height=220&section=header&text=Mahesh%20Vallepu&fontSize=62&fontColor=e8f4ff&animation=twinkling&fontAlignY=38&desc=Senior%20Oracle%20Database%20Administrator&descAlignY=58&descSize=20&descColor=00aaff" />
 
-<!-- Badges Row -->
-![Profile Views](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=C74634&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vallepu-493b2234b/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshvallepu.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshVallepu-DBA)
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=0066CC&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vallepu-493b2234b/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-0a1628?style=for-the-badge&logo=gmail&logoColor=00aaff)](mailto:maheshvallepu.official@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d2a50?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/MaheshVallepu-DBA)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_9704889360-0066CC?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919704889360)
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C74634&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Senior+Oracle+DBA+%7C+4%2B+Years+BFSI+Experience;Oracle+RAC+%7C+GoldenGate+%7C+Active+Data+Guard;24x7+Mission-Critical+Production+Support;Zero-Downtime+Migrations+%7C+DR+Specialist;Oracle+Cloud+Infrastructure+(OCI)+Engineer;RMAN+%7C+ASM+%7C+SQL+Performance+Tuning+Expert" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=800&color=00AAFF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=Senior+Oracle+DBA+%7C+4%2B+Years+BFSI+Experience;Oracle+RAC+%7C+GoldenGate+%7C+Active+Data+Guard;24x7+Mission-Critical+Production+Support;Zero-Downtime+Migrations+%7C+DR+Specialist;Oracle+Cloud+Infrastructure+(OCI)+Engineer;RMAN+%7C+ASM+%7C+SQL+Performance+Tuning+Expert" alt="Typing SVG" />
 
 </div>
 
@@ -18,23 +26,25 @@
 
 <div align="center">
 
-## 🧑‍💼 `SELECT * FROM dba_profile WHERE username = 'MAHESH_VALLEPU';`
+## `SELECT * FROM dba_profile WHERE username = 'MAHESH_VALLEPU';`
 
 </div>
 
 ```sql
-/*=======================================================
-   PROFILE CARD — MAHESH VALLEPU | SENIOR ORACLE DBA
-=========================================================*/
-NAME            =>  Mahesh Vallepu
-ROLE            =>  Senior Oracle Database Administrator
-EXPERIENCE      =>  ~4 Years | BFSI Production Environments
-LOCATION        =>  📍 Bengaluru, India 🇮🇳
-AVAILABILITY    =>  ✅ IMMEDIATE JOINER
-SPECIALITY      =>  Oracle RAC | GoldenGate | Active Data Guard | OCI | RMAN
-BFSI CLIENTS    =>  🏦 State Bank of India | RBL Bank | Mahindra Finance (MMFSL)
-SUPERPOWER      =>  Zero-Downtime Migrations | DR Solutions | 24x7 Production Support
-/*=======================================================*/
+/*==========================================================
+   PROFILE CARD — MAHESH VALLEPU  |  SENIOR ORACLE DBA
+============================================================*/
+
+NAME             =>  Mahesh Vallepu
+ROLE             =>  Senior Oracle Database Administrator
+EXPERIENCE       =>  ~4 Years | BFSI Production Environments
+LOCATION         =>  📍 Bengaluru, India 🇮🇳
+AVAILABILITY     =>  ✅ IMMEDIATE JOINER
+SPECIALITY       =>  Oracle RAC | GoldenGate | Active Data Guard | OCI | RMAN
+BFSI_CLIENTS     =>  🏦 State Bank of India | RBL Bank | Mahindra Finance (MMFSL)
+SUPERPOWER       =>  Zero-Downtime Migrations | DR Solutions | 24x7 Production Support
+
+/*==========================================================*/
 ```
 
 ---
@@ -45,24 +55,24 @@ SUPERPOWER      =>  Zero-Downtime Migrations | DR Solutions | 24x7 Production Su
 <tr>
 <td width="50%">
 
-### 🔴 Oracle Core
-✅ **Oracle RAC** — 4-Node Cluster, OPatchAuto Rolling Patches  
-✅ **GoldenGate Classic & Microservices** — Uni/Bi-Directional  
-✅ **Active Data Guard** — Physical & Snapshot Standby, DGMGRL  
-✅ **RMAN** — Hot/Cold/Incremental, PITR, RMAN Duplicate  
-✅ **ASM** — Disk Group Mgmt, ASMCMD, Rebalancing  
-✅ **Oracle 11g / 12c / 19c** — Standalone & RAC  
+### 🔵 Oracle Core
+✅ **Oracle RAC** — 4-Node Cluster, OPatchAuto Rolling Patches
+✅ **GoldenGate Classic & Microservices** — Uni/Bi-Directional
+✅ **Active Data Guard** — Physical & Snapshot Standby, DGMGRL
+✅ **RMAN** — Hot/Cold/Incremental, PITR, RMAN Duplicate
+✅ **ASM** — Disk Group Mgmt, ASMCMD, Rebalancing
+✅ **Oracle 11g / 12c / 19c** — Standalone & RAC
 
 </td>
 <td width="50%">
 
 ### ☁️ Cloud & Tools
-✅ **OCI** — Compute, Block Storage, DB Systems, VCN, IAM  
-✅ **SQL Tuning** — AWR, ASH, ADDM, Explain Plan, TKProf  
-✅ **Patching** — CPU/PSU/RU via OPatch & OPatchAuto  
-✅ **Linux/Shell** — Bash/KSH DBA Automation, Cron Jobs  
-✅ **ServiceNow** — L1/L2 ITSM, RCA, Change Management  
-✅ **100% SLA** — P1/P2 Incident adherence across BFSI  
+✅ **OCI** — Compute, Block Storage, DB Systems, VCN, IAM
+✅ **SQL Tuning** — AWR, ASH, ADDM, Explain Plan, TKProf
+✅ **Patching** — CPU/PSU/RU via OPatch & OPatchAuto
+✅ **Linux/Shell** — Bash/KSH DBA Automation, Cron Jobs
+✅ **ServiceNow** — L1/L2 ITSM, RCA, Change Management
+✅ **100% SLA** — P1/P2 Incident adherence across BFSI
 
 </td>
 </tr>
@@ -74,34 +84,37 @@ SUPERPOWER      =>  Zero-Downtime Migrations | DR Solutions | 24x7 Production Su
 
 <div align="center">
 
-### 🔴 Oracle Technologies
-![Oracle DB](https://img.shields.io/badge/Oracle_19c%2F12c%2F11g-Database-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle RAC](https://img.shields.io/badge/Oracle_RAC-4--Node_Cluster-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![GoldenGate](https://img.shields.io/badge/GoldenGate-Classic_%26_Microservices-FF6B35?style=for-the-badge&logo=oracle&logoColor=white)
-![Data Guard](https://img.shields.io/badge/Active_Data_Guard-HA_%26_DR-E63946?style=for-the-badge&logo=oracle&logoColor=white)
-![RMAN](https://img.shields.io/badge/RMAN-Backup_%26_Recovery-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![ASM](https://img.shields.io/badge/ASM-Storage_Management-FF4500?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI](https://img.shields.io/badge/OCI-Oracle_Cloud-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![OEM](https://img.shields.io/badge/Oracle_Enterprise_Manager-Monitoring-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+### 🔵 Oracle Technologies
+
+![Oracle DB](https://img.shields.io/badge/Oracle_19c%2F12c%2F11g-Database-0066CC?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle RAC](https://img.shields.io/badge/Oracle_RAC-4--Node_Cluster-0a1628?style=for-the-badge&logo=oracle&logoColor=00aaff)
+![GoldenGate](https://img.shields.io/badge/GoldenGate-Classic_%26_Microservices-0d2a50?style=for-the-badge&logo=oracle&logoColor=00e5ff)
+![Data Guard](https://img.shields.io/badge/Active_Data_Guard-HA_%26_DR-0066CC?style=for-the-badge&logo=oracle&logoColor=white)
+![RMAN](https://img.shields.io/badge/RMAN-Backup_%26_Recovery-0a1628?style=for-the-badge&logo=oracle&logoColor=00aaff)
+![ASM](https://img.shields.io/badge/ASM-Storage_Management-0d2a50?style=for-the-badge&logo=oracle&logoColor=00e5ff)
+![OCI](https://img.shields.io/badge/OCI-Oracle_Cloud-0066CC?style=for-the-badge&logo=oracle&logoColor=white)
+![OEM](https://img.shields.io/badge/Oracle_Enterprise_Manager-Monitoring-0a1628?style=for-the-badge&logo=oracle&logoColor=00aaff)
 
 ### 🐧 OS & Scripting
-![RHEL](https://img.shields.io/badge/RHEL_6%2F7%2F8-Enterprise_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![OEL](https://img.shields.io/badge/OEL_6%2F7%2F8-Oracle_Linux-C74634?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![RHEL](https://img.shields.io/badge/RHEL_6%2F7%2F8-Enterprise_Linux-0066CC?style=for-the-badge&logo=redhat&logoColor=white)
+![OEL](https://img.shields.io/badge/OEL_6%2F7%2F8-Oracle_Linux-0a1628?style=for-the-badge&logo=linux&logoColor=00aaff)
+![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-0d2a50?style=for-the-badge&logo=gnubash&logoColor=00e5ff)
+![Linux](https://img.shields.io/badge/Linux-Administration-0066CC?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 🔧 Tools & Platforms
-![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-00D100?style=for-the-badge&logo=servicenow&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-SSH-007ACC?style=for-the-badge)
-![WinSCP](https://img.shields.io/badge/WinSCP-File_Transfer-2E7D32?style=for-the-badge)
-![MobaXterm](https://img.shields.io/badge/MobaXterm-Terminal-1A237E?style=for-the-badge)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-0a1628?style=for-the-badge&logo=servicenow&logoColor=00aaff)
+![PuTTY](https://img.shields.io/badge/PuTTY-SSH-0066CC?style=for-the-badge&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-File_Transfer-0d2a50?style=for-the-badge&logoColor=00e5ff)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-Terminal-0a1628?style=for-the-badge&logoColor=00aaff)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Admin-0066CC?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Oracle DBA Expertise
+## 🏆 Oracle DBA Expertise Matrix
 
 <div align="center">
 
@@ -122,29 +135,32 @@ SUPERPOWER      =>  Zero-Downtime Migrations | DR Solutions | 24x7 Production Su
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                  OCI SKILLS — MAHESH VALLEPU                    │
-├──────────────────────┬──────────────────────────────────────────┤
-│  💻 Compute          │  Instances, shapes, OS management        │
-│  💾 Block Storage    │  Attach, manage, snapshot, expand        │
-│  🌐 Networking       │  VCN, subnets, security lists, routing   │
-│  🗄️  DB Systems      │  Cloud DB provisioning & administration  │
-│  🔐 IAM & Security   │  Users, groups, policies, compartments   │
-│  📊 OCI Console      │  Day-to-day cloud operations & monitoring│
-└──────────────────────┴──────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║              OCI SKILLS — MAHESH VALLEPU                        ║
+╠══════════════════════╦═══════════════════════════════════════════╣
+║  💻 Compute          ║  Instances, shapes, OS management        ║
+║  💾 Block Storage    ║  Attach, manage, snapshot, expand        ║
+║  🌐 Networking       ║  VCN, subnets, security lists, routing   ║
+║  🗄️  DB Systems      ║  Cloud DB provisioning & administration  ║
+║  🔐 IAM & Security   ║  Users, groups, policies, compartments   ║
+║  📊 OCI Console      ║  Day-to-day cloud operations & monitoring ║
+╚══════════════════════╩═══════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🐚 Linux & Shell Scripting
+## 🐚 Linux & Shell Scripting Automation
 
 ```bash
 #!/bin/bash
-# ============================================
-# DBA Automation Arsenal — Mahesh Vallepu 🚀
-# ============================================
+# ================================================================
+#  DBA Automation Arsenal — Mahesh Vallepu 🚀
+#  Platform : RHEL / OEL 6/7/8
+#  Scheduler: Crontab (daily/weekly/monthly)
+#  Alerting : Email + ServiceNow auto-ticket
+# ================================================================
 
 declare -A DBA_SCRIPTS=(
   ["rman_backup.sh"]="Hot/Incremental RMAN backup with email alerts"
@@ -160,11 +176,6 @@ declare -A DBA_SCRIPTS=(
 for script in "${!DBA_SCRIPTS[@]}"; do
   printf "  ✅ %-35s → %s\n" "$script" "${DBA_SCRIPTS[$script]}"
 done
-
-echo ""
-echo "  🔧 Platform  : RHEL / OEL 6/7/8"
-echo "  ⏰ Scheduler  : Crontab (daily/weekly/monthly)"
-echo "  📧 Alerting   : Email + ServiceNow auto-ticket"
 ```
 
 ---
@@ -174,12 +185,12 @@ echo "  📧 Alerting   : Email + ServiceNow auto-ticket"
 ### 🏦 State Bank of India (SBI) — Core Banking Solution
 > **Senior Oracle DBA** | ASPL Info Services, Bengaluru | *Oct 2025 – Jan 2026*
 
-![Oracle RAC](https://img.shields.io/badge/Oracle_RAC-4_Node-C74634?style=flat-square&logo=oracle)
-![GoldenGate](https://img.shields.io/badge/GoldenGate-Bi--Directional-FF6B35?style=flat-square&logo=oracle)
-![Data Guard](https://img.shields.io/badge/Active_Data_Guard-RBI_Compliant-E63946?style=flat-square&logo=oracle)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-L1_%26_L2-00D100?style=flat-square)
+![Oracle RAC](https://img.shields.io/badge/Oracle_RAC-4_Node-0066CC?style=flat-square&logo=oracle&logoColor=white)
+![GoldenGate](https://img.shields.io/badge/GoldenGate-Bi--Directional-0a1628?style=flat-square&logo=oracle&logoColor=00aaff)
+![Data Guard](https://img.shields.io/badge/Active_Data_Guard-RBI_Compliant-0d2a50?style=flat-square&logo=oracle&logoColor=00e5ff)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-L1_%26_L2-0066CC?style=flat-square&logoColor=white)
 
-- 🔴 Administered Oracle **11g/12c/19c** CBS databases — 24x7 uptime for millions of daily transactions
+- 🔵 Administered Oracle **11g/12c/19c** CBS databases — 24x7 uptime for millions of daily transactions
 - ⚡ Executed **Rolling RAC patches (OPatchAuto)** on 4-node cluster with **zero planned downtime**
 - 🔁 Deployed **GoldenGate Bi-Directional replication** across SBI's CBS regional hubs
 - 🛠️ Resolved GoldenGate **Extract/Replicat abends**, trail file corruption, replication lag
@@ -192,11 +203,11 @@ echo "  📧 Alerting   : Email + ServiceNow auto-ticket"
 ### 🏢 Mahindra & Mahindra Financial Services (MMFSL)
 > **Oracle DBA (Senior)** | Simple LogicIT Pvt. Ltd., Mumbai | *Sep 2024 – Sep 2025*
 
-![Oracle 19c](https://img.shields.io/badge/Oracle-12c%2F19c-C74634?style=flat-square&logo=oracle)
-![Data Guard](https://img.shields.io/badge/Active_Data_Guard-DGMGRL-E63946?style=flat-square&logo=oracle)
-![RMAN](https://img.shields.io/badge/RMAN-PITR_Validated-FF4500?style=flat-square&logo=oracle)
+![Oracle 19c](https://img.shields.io/badge/Oracle-12c%2F19c-0066CC?style=flat-square&logo=oracle&logoColor=white)
+![Data Guard](https://img.shields.io/badge/Active_Data_Guard-DGMGRL-0a1628?style=flat-square&logo=oracle&logoColor=00aaff)
+![RMAN](https://img.shields.io/badge/RMAN-PITR_Validated-0d2a50?style=flat-square&logo=oracle&logoColor=00e5ff)
 
-- 🏦 Managed Production/Dev/Staging Oracle 12c/19c databases for retail loans & insurance systems
+- 🏦 Managed Production/Dev/Staging Oracle **12c/19c** databases for retail loans & insurance systems
 - 🔧 Applied **CPU/PSU/RU quarterly patches** (OPatch & OPatchAuto) following CAB approvals
 - 🛡️ Configured **Oracle Active Data Guard** (Physical & Snapshot Standby) with DGMGRL automation
 - 💾 Migrated databases from **filesystem to ASM storage** for improved I/O & manageability
@@ -207,12 +218,12 @@ echo "  📧 Alerting   : Email + ServiceNow auto-ticket"
 ### 🏦 RBL Bank — Core Banking & Credit Card Operations
 > **Oracle DBA** | Aarmec Technology Pvt. Ltd., Bengaluru | *Jun 2022 – Sep 2024*
 
-![Oracle RAC](https://img.shields.io/badge/Oracle_RAC-HA_Cluster-C74634?style=flat-square&logo=oracle)
-![ASM](https://img.shields.io/badge/ASM-Disk_Mgmt-FF4500?style=flat-square&logo=oracle)
-![AWR](https://img.shields.io/badge/AWR%2FASH%2FADDM-Performance-0066CC?style=flat-square)
+![Oracle RAC](https://img.shields.io/badge/Oracle_RAC-HA_Cluster-0066CC?style=flat-square&logo=oracle&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-Disk_Mgmt-0a1628?style=flat-square&logo=oracle&logoColor=00aaff)
+![AWR](https://img.shields.io/badge/AWR%2FASH%2FADDM-Performance-0d2a50?style=flat-square&logoColor=00e5ff)
 
 - 🏦 Delivered **L1 & L2 Production Support** for Oracle 11g/12c/19c — credit card & retail banking
-- 🔴 Monitored **Oracle RAC** clusters using SRVCTL/CRSCTL for 24x7 HA banking operations
+- 🔵 Monitored **Oracle RAC** clusters using SRVCTL/CRSCTL for 24x7 HA banking operations
 - 💾 Managed **ASM disk groups** — ASMCMD, disk addition, rebalancing for high-volume transactions
 - 📊 Used **AWR, ADDM, ASH, Explain Plan, TKProf** to resolve CPU/I/O performance bottlenecks
 - 🎫 Handled full incident lifecycle via **ServiceNow** — RCA, permanent fix, knowledge base
@@ -222,9 +233,9 @@ echo "  📧 Alerting   : Email + ServiceNow auto-ticket"
 ## 🚀 Currently Working On
 
 ```plsql
-/* ============================================
+/* =====================================================
    ACTIVE FOCUS AREAS — Q2 2026
-   ============================================ */
+   ===================================================== */
 DECLARE
   v_projects SYS.ODCIVARCHAR2LIST := SYS.ODCIVARCHAR2LIST(
     '🔁 GoldenGate Microservices — REST API, ServiceManager, AdminServer',
@@ -264,16 +275,16 @@ END;
 
 <div align="center">
 
-🎓 **B.Tech — Electrical & Electronics Engineering (EEE)**  
+🎓 **B.Tech — Electrical & Electronics Engineering (EEE)**
 JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <br/>
 
 | 🏅 Certification | Status |
 |:---|:---:|
-| 🔴 Oracle Database 19c Administrator Certified Associate (OCA) | 🎯 Targeting |
+| 🔵 Oracle Database 19c Administrator Certified Associate (OCA) | 🎯 Targeting |
 | ☁️ Oracle Cloud Infrastructure (OCI) Foundations Associate | 🎯 Targeting |
-| 🔴 Oracle Database 19c Administrator Certified Professional (OCP) | 🎯 Targeting |
+| 🔵 Oracle Database 19c Administrator Certified Professional (OCP) | 🎯 Targeting |
 
 </div>
 
@@ -283,16 +294,16 @@ JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MaheshVallepu-DBA&theme=tokyonight&hide_border=false&border_radius=10&ring=C74634&fire=FF6B35&currStreakLabel=C74634&sideLabels=C74634&dates=888888" alt="GitHub Streak" width="700"/>
+<img src="https://streak-stats.demolab.com?user=MaheshVallepu-DBA&theme=dark&hide_border=false&border_radius=10&ring=0066CC&fire=00aaff&currStreakLabel=00e5ff&sideLabels=0066CC&dates=7090b0&background=020810&stroke=0a1628&currStreakNum=e8f4ff&sideNums=e8f4ff" alt="GitHub Streak" width="700"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshVallepu-DBA&bg_color=0d1117&color=C74634&line=FF6B35&point=ffffff&area_color=C74634&area=true&hide_border=false&border_color=C74634&radius=8" alt="Contribution Graph" width="700"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshVallepu-DBA&bg_color=020810&color=00aaff&line=0066CC&point=00e5ff&area_color=0066CC&area=true&hide_border=false&border_color=0066CC&radius=8" alt="Contribution Graph" width="700"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=C74634&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/MaheshVallepu-DBA?style=for-the-badge&color=C74634&labelColor=0d1117&label=FOLLOWERS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=0066CC&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/MaheshVallepu-DBA?style=for-the-badge&color=0066CC&labelColor=020810&label=FOLLOWERS&logo=github&logoColor=00aaff)
 
 </div>
 
@@ -327,10 +338,10 @@ Bengaluru • Bangalore • India • Immediate Joiner ✅
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh_Vallepu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vallepu-493b2234b/)
-[![Gmail](https://img.shields.io/badge/Gmail-maheshvallepu.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshvallepu.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MaheshVallepu--DBA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshVallepu-DBA)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_9704889360-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919704889360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh_Vallepu-0066CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-vallepu-493b2234b/)
+[![Gmail](https://img.shields.io/badge/Gmail-maheshvallepu.official%40gmail.com-0a1628?style=for-the-badge&logo=gmail&logoColor=00aaff)](mailto:maheshvallepu.official@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MaheshVallepu--DBA-0d2a50?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/MaheshVallepu-DBA)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_9704889360-0066CC?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919704889360)
 
 <br/>
 
@@ -341,6 +352,6 @@ Bengaluru • Bangalore • India • Immediate Joiner ✅
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:1a2744,100:0d1117&height=120&section=footer&text=Keeping+Oracle+Databases+Highly+Available&fontSize=18&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,40:0a1628,70:0d2a50,100:020810&height=130&section=footer&text=Keeping+Oracle+Databases+Highly+Available&fontSize=17&fontColor=00aaff&animation=twinkling" />
 
 </div>
