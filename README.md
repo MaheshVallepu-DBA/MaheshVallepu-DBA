@@ -286,13 +286,16 @@ JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaheshVallepu-DBA&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=C74634&icon_color=C74634&text_color=ffffff&bg_color=0d1117" alt="Mahesh GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshVallepu-DBA&layout=compact&theme=radical&hide_border=true&title_color=C74634&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=MaheshVallepu-DBA&theme=radical&hide_border=true&ring=C74634&fire=C74634&currStreakLabel=C74634&background=0d1117" alt="GitHub Streak" />
 
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshVallepu-DBA&bg_color=0d1117&color=C74634&line=C74634&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=C74634&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/MaheshVallepu-DBA?style=for-the-badge&color=C74634&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -304,8 +307,8 @@ JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <div align="center">
 
-[![oracle-dba-scripts](https://github-readme-stats.vercel.app/api/pin/?username=MaheshVallepu-DBA&repo=oracle-dba-scripts&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/MaheshVallepu-DBA/oracle-dba-scripts)
-[![goldengate-automation](https://github-readme-stats.vercel.app/api/pin/?username=MaheshVallepu-DBA&repo=goldengate-automation&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/MaheshVallepu-DBA/goldengate-automation)
+[![oracle-dba](https://github-readme-stats.vercel.app/api/pin/?username=MaheshVallepu-DBA&repo=oracle-dba&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/MaheshVallepu-DBA/oracle-dba)
+[![SL](https://github-readme-stats.vercel.app/api/pin/?username=MaheshVallepu-DBA&repo=SL&theme=radical&hide_border=true&title_color=C74634&bg_color=0d1117)](https://github.com/MaheshVallepu-DBA/SL)
 
 </div>
 
