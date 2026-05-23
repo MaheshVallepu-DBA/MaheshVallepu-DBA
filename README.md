@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mahesh%20Vallepu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Oracle%20Database%20Administrator&descAlignY=55&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0066CC&height=200&section=header&text=Mahesh%20Vallepu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Oracle%20Database%20Administrator&descAlignY=55&descSize=22" />
 
 <!-- Badges Row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MaheshVallepu-DBA&color=C74634&style=for-the-badge&label=PROFILE+VIEWS)
@@ -341,6 +341,6 @@ Bengaluru • Bangalore • India • Immediate Joiner ✅
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keeping+Oracle+Databases+Highly+Available+⚡&fontSize=18&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,50:1a2744,100:0d1117&height=120&section=footer&text=Keeping+Oracle+Databases+Highly+Available&fontSize=18&fontColor=fff&animation=twinkling" />
 
 </div>
